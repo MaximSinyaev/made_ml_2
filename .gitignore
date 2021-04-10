@@ -1,2 +1,6 @@
+*.pkl
+*.zip
+*_ex*
+*.json
 *.csv
 .ipynb*
